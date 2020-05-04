@@ -26,3 +26,6 @@ notebooks/
 .ipynb_checkpoints/
 .ipynb
 
+# Weights
+weights
+
