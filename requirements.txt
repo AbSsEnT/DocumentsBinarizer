@@ -1,4 +1,4 @@
 opencv_python==3.4.3.18
-numpy==1.18.4
+numpy==1.22.0
 Keras==2.2.4
 PyQt5==5.14.2
